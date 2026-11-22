@@ -149,7 +149,7 @@ A few things I care about when I build:
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=bhargavithoka-overclocked&theme=tokyonight&hide_border=true" alt="Commit streak">
+  <img src="https://streak-stats.demolab.com?user=bhargavithoka-overclocked&theme=tokyonight&hide_border=true&dates=00000000" alt="Commit streak">
 </p>
 
 ---
