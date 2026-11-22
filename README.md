@@ -25,14 +25,14 @@ A few things I care about when I build:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/bhargavithoka-overclocked/jobhunt-ai"><img src="https://github.com/bhargavithoka-overclocked/jobhunt-ai/raw/main/docs/screenshots/dashboard.jpg" alt="JobHunt AI"></a>
+      <a href="https://github.com/bhargavithoka-overclocked/jobhunt-ai"><img src="thumbs/jobhunt.jpg" alt="JobHunt AI"></a>
       <h3><a href="https://github.com/bhargavithoka-overclocked/jobhunt-ai">JobHunt AI</a></h3>
       A desktop app that finds new jobs at H-1B sponsors, ranks them, and writes a tailored resume and cover letter for each one in PDF and Word. One AI call per job, with code checking every fact against the master resume.
       <br><br>
       <code>Python</code> <code>FastAPI</code> <code>React</code> <code>SQLite</code> <code>Playwright</code> <code>Claude / ChatGPT</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/bhargavithoka-overclocked/ai-trip-planner"><img src="https://github.com/bhargavithoka-overclocked/ai-trip-planner/raw/main/docs/screenshots/overview.jpg" alt="AI Trip Planner"></a>
+      <a href="https://github.com/bhargavithoka-overclocked/ai-trip-planner"><img src="thumbs/trip.jpg" alt="AI Trip Planner"></a>
       <h3><a href="https://github.com/bhargavithoka-overclocked/ai-trip-planner">AI Trip Planner</a></h3>
       Type where you want to go and get a full plan: best places, food, areas to stay, a budget breakdown and a day-by-day itinerary. Pick OpenAI, Claude or Gemini's free tier.
       <br><br>
@@ -41,14 +41,14 @@ A few things I care about when I build:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/bhargavithoka-overclocked/buddy-voice-assistant"><img src="https://github.com/bhargavithoka-overclocked/buddy-voice-assistant/raw/main/docs/screenshot.jpg" alt="Buddy"></a>
+      <a href="https://github.com/bhargavithoka-overclocked/buddy-voice-assistant"><img src="thumbs/buddy.jpg" alt="Buddy"></a>
       <h3><a href="https://github.com/bhargavithoka-overclocked/buddy-voice-assistant">Buddy, a voice assistant</a></h3>
       Say "Hey Buddy" and talk about anything. An animated gorilla who listens, thinks and talks back in real time, and you can interrupt him. Runs free and fully local as a Mac app.
       <br><br>
       <code>FastAPI</code> <code>WebSockets</code> <code>React</code> <code>Electron</code> <code>Whisper</code> <code>Piper</code> <code>Ollama</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/bhargavithoka-overclocked/expense-tracker"><img src="https://github.com/bhargavithoka-overclocked/expense-tracker/raw/main/docs/screenshot.jpg" alt="Expense Tracker"></a>
+      <a href="https://github.com/bhargavithoka-overclocked/expense-tracker"><img src="thumbs/expense.jpg" alt="Expense Tracker"></a>
       <h3><a href="https://github.com/bhargavithoka-overclocked/expense-tracker">Expense & Subscription Tracker</a></h3>
       Tracks spending with budgets, insights and charts, and spots your subscriptions from repeating payments before they renew.
       <br><br>
