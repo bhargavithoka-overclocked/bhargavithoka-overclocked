@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/askbhargavi/"><img src="https://img.shields.io/badge/LinkedIn-askbhargavi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:bhargavi2574@gmail.com"><img src="https://img.shields.io/badge/Email-bhargavi2574%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Open%20to%20work-yes-22c55e?style=for-the-badge" alt="Open to work">
 </p>
 
@@ -18,7 +19,7 @@ A few things I care about when I build:
 - **Cheap to run.** Free tiers, local models and subscriptions before paid APIs, with hard limits in code.
 - **Private by default.** Personal details are masked before anything goes to an AI.
 
-> **Open to work.** I'm looking for roles where I can build AI products people use every day. [Let's talk on LinkedIn](https://www.linkedin.com/in/askbhargavi/).
+> **Open to work.** I'm looking for roles where I can build AI products people use every day. [Let's talk on LinkedIn](https://www.linkedin.com/in/askbhargavi/) or [email me](mailto:bhargavi2574@gmail.com).
 
 ## Things I've built
 
